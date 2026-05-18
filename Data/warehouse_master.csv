@@ -1,0 +1,6 @@
+warehouse_id,location,capacity
+WH-01,Mumbai,20000
+WH-02,Bangalore,10000
+WH-03,Hyderabad,12500
+WH-04,Chennai,8000
+WH-05,Delhi,15500
